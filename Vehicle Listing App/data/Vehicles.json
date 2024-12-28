@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Toyota",
+        "type": "Sedan",
+        "price": "14000",
+        "image": "https:\/\/global.toyota\/pages\/news\/images\/2023\/11\/02\/1330\/r001.jpg"
+    },
+    {
+        "name": "Aston Martin DB9",
+        "type": "Sports Car",
+        "price": "30000",
+        "image": "https:\/\/www.motortrend.com\/uploads\/sites\/5\/2015\/06\/2016-Aston-Martin-DB9-GT-front-three-quarter.jpg"
+    },
+    {
+        "name": "Nissan Petrol",
+        "type": "SUV",
+        "price": "25000",
+        "image": "https:\/\/images.topgear.com.ph\/topgear\/images\/2024\/01\/19\/nissan-patrol-18-1705665777.jpg"
+    }
+]
